@@ -1,4 +1,3 @@
-# Distributed-information-systems
 # Getting-things-ready
 Програма повинна коректно обробляти наступні команди:
 
