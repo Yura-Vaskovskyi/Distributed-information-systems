@@ -1,1 +1,1 @@
-# Distributed-information-systems
+# REST-server
